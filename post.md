@@ -12,9 +12,9 @@ With a long list of customer requirements, and some high-profile beta customers 
 
 Trialfire was born out of Kremer’s first startup:
 
-“My Co-founder Mike used to always bug me about getting data to measure how engaged users were. We have free trials, are they working or are they not working? How deep are users getting? It was hard to tell because, so it’s much more complex to get the right analytics out of a web app.”
+“My Co-founder Mike used to always bug me about getting data to measure how engaged users were. We have free trials, are they working or are they not working? How deep are users getting? It was hard to tell because it’s much more complex to get the right analytics out of a web app.”
 It wasn’t just a problem for startups. Historically, if any company wanted better insight than just page views, a developer has to insert custom code, instrument each button and link, and connect them back to analytics systems like Google Analytics by hand. 
-When the company was acquired by Autodesk, Kremer saw the same analytics problems amplified as Sales, Marketing, and Product teams tried to stategize based on assumptions that needed to be backed by real data that a pain to get.
+When the company was acquired by Autodesk, Kremer saw the same analytics problems amplified as Sales, Marketing, and Product teams worked on strategy. Assumptions had to be backed by real data that was a pain to get.
 
 ###Weeks Of Development Time Saved
 
